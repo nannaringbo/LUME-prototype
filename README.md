@@ -1,6 +1,8 @@
 # LUME
 
 A site-specific interactive installation, highlighting the impact of noise pollution in public space. Through light animations, the site reacts  to any environmental impact, sensed through sound.
+
+This was a prototype made as part of a group project in the course "Designing Interactions" at ITU.
 ![Annotated Portfolio (1)](https://github.com/user-attachments/assets/c3f75910-3a55-4b4c-88f5-c9d081fe06a4)
 
 
